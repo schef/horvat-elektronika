@@ -2,7 +2,7 @@
 
 """
 Telefonski imenik
-Location: https://github.com/schef/horvat-elektronika/source/scripts
+Location: https://github.com/schef/horvat-elektronika/tree/master/source/scripts
 """
 
 __author__ = 'Stjepan Horvat (zvanstefan@gmail.com)'
